@@ -1,4 +1,5 @@
 {
+  "homepage": "https://github.com/SouvikChoudhury360/CV.git",
   "name": "souvikchouydhury360.github.io",
   "version": "0.1.0",
   "private": true,
@@ -18,7 +19,6 @@
     "sass": "^1.32.8",
     "react-test-renderer": "^17.0.2"
   },
-  "homepage": "https://github.com/SouvikChoudhury360/CV.git",
   "scripts": {
     "predeploy": "npm run build",
     "start": "node fetch.js && react-scripts start",
