@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5642bfea75ec49d9e19d547dc71706f5",
+    "revision": "ba2d135ca489ff1f3005968d9e3b5b43",
     "url": "/SouvikChoudhury360/CV.git/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SouvikChoudhury360/CV.git/static/css/4.a8329f31.chunk.css"
   },
   {
-    "revision": "bf5661aa95e489d30c84",
+    "revision": "02447be41bee2bd1704d",
     "url": "/SouvikChoudhury360/CV.git/static/css/main.8e90f156.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SouvikChoudhury360/CV.git/static/js/4.6b82b7a6.chunk.js"
   },
   {
-    "revision": "bf5661aa95e489d30c84",
-    "url": "/SouvikChoudhury360/CV.git/static/js/main.81410aac.chunk.js"
+    "revision": "02447be41bee2bd1704d",
+    "url": "/SouvikChoudhury360/CV.git/static/js/main.e0ba1ba8.chunk.js"
   },
   {
     "revision": "54347ec09987294fe80d",
@@ -56,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SouvikChoudhury360/CV.git/static/media/chaterr.3a2ef788.png"
   },
   {
-    "revision": "03bf9f01f443578a082e38650a92da2f",
-    "url": "/SouvikChoudhury360/CV.git/static/media/codeforcesLogo.03bf9f01.jpg"
+    "revision": "83207bf6cf0821afe773c58aff5d39c3",
+    "url": "/SouvikChoudhury360/CV.git/static/media/codeforcesLogo.83207bf6.jpg"
   },
   {
     "revision": "51cf7192327488da3d2a171280680c16",
@@ -84,12 +84,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SouvikChoudhury360/CV.git/static/media/iitmLogo.2d5c62d0.png"
   },
   {
-    "revision": "3445c79cc704e80d7e498541c599f2f2",
-    "url": "/SouvikChoudhury360/CV.git/static/media/juLogo.3445c79c.jpg"
+    "revision": "28c326c92db7233166522c0a250e0c49",
+    "url": "/SouvikChoudhury360/CV.git/static/media/juLogo.28c326c9.jpg"
   },
   {
-    "revision": "c15341f685876d99a19ef6d2686658ec",
-    "url": "/SouvikChoudhury360/CV.git/static/media/kickstartLogo.c15341f6.jpg"
+    "revision": "a5d0c0b04d31e0afcc00da53d55fb4af",
+    "url": "/SouvikChoudhury360/CV.git/static/media/kickstartLogo.a5d0c0b0.jpg"
   },
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
@@ -100,8 +100,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SouvikChoudhury360/CV.git/static/media/quoraLogo.4b2938b9.png"
   },
   {
-    "revision": "8b107b63c0e0e7cc361294093f33dcc4",
-    "url": "/SouvikChoudhury360/CV.git/static/media/replyLogo.8b107b63.jpg"
+    "revision": "f4da5b54a92b8e8b8fdfe54b03335703",
+    "url": "/SouvikChoudhury360/CV.git/static/media/replyLogo.f4da5b54.jpg"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
