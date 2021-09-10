@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5642bfea75ec49d9e19d547dc71706f5",
+    "revision": "a4b93340b6e6e93ba1633ad9da503ed5",
     "url": "/SouvikChoudhury360/CV.git/index.html"
   },
   {
