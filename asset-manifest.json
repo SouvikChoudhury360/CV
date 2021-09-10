@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/SouvikChoudhury360/CV.git/static/css/main.8e90f156.chunk.css",
-    "main.js": "/SouvikChoudhury360/CV.git/static/js/main.e0ba1ba8.chunk.js",
-    "main.js.map": "/SouvikChoudhury360/CV.git/static/js/main.e0ba1ba8.chunk.js.map",
+    "main.js": "/SouvikChoudhury360/CV.git/static/js/main.81410aac.chunk.js",
+    "main.js.map": "/SouvikChoudhury360/CV.git/static/js/main.81410aac.chunk.js.map",
     "runtime-main.js": "/SouvikChoudhury360/CV.git/static/js/runtime-main.d5fa7641.js",
     "runtime-main.js.map": "/SouvikChoudhury360/CV.git/static/js/runtime-main.d5fa7641.js.map",
     "static/js/2.1fb5a9dc.chunk.js": "/SouvikChoudhury360/CV.git/static/js/2.1fb5a9dc.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.6b82b7a6.chunk.js": "/SouvikChoudhury360/CV.git/static/js/4.6b82b7a6.chunk.js",
     "static/js/4.6b82b7a6.chunk.js.map": "/SouvikChoudhury360/CV.git/static/js/4.6b82b7a6.chunk.js.map",
     "index.html": "/SouvikChoudhury360/CV.git/index.html",
-    "precache-manifest.d14ef960da3a86cbb50ad9aed967acd8.js": "/SouvikChoudhury360/CV.git/precache-manifest.d14ef960da3a86cbb50ad9aed967acd8.js",
+    "precache-manifest.72adac7aaf295662d248e7102bc55192.js": "/SouvikChoudhury360/CV.git/precache-manifest.72adac7aaf295662d248e7102bc55192.js",
     "service-worker.js": "/SouvikChoudhury360/CV.git/service-worker.js",
     "static/css/3.25727338.chunk.css.map": "/SouvikChoudhury360/CV.git/static/css/3.25727338.chunk.css.map",
     "static/css/4.a8329f31.chunk.css.map": "/SouvikChoudhury360/CV.git/static/css/4.a8329f31.chunk.css.map",
@@ -23,18 +23,18 @@
     "static/media/index.css": "/SouvikChoudhury360/CV.git/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/airbnbLogo.png": "/SouvikChoudhury360/CV.git/static/media/airbnbLogo.c59720d6.png",
     "static/media/chaterr.png": "/SouvikChoudhury360/CV.git/static/media/chaterr.3a2ef788.png",
-    "static/media/codeforcesLogo.jpg": "/SouvikChoudhury360/CV.git/static/media/codeforcesLogo.83207bf6.jpg",
+    "static/media/codeforcesLogo.jpg": "/SouvikChoudhury360/CV.git/static/media/codeforcesLogo.03bf9f01.jpg",
     "static/media/contactMailDark.svg": "/SouvikChoudhury360/CV.git/static/media/contactMailDark.51cf7192.svg",
     "static/media/developerActivity.svg": "/SouvikChoudhury360/CV.git/static/media/developerActivity.59389695.svg",
     "static/media/doubleslashLogo.png": "/SouvikChoudhury360/CV.git/static/media/doubleslashLogo.7329fce1.png",
     "static/media/evoter.png": "/SouvikChoudhury360/CV.git/static/media/evoter.0c88bd66.png",
     "static/media/facebookLogo.png": "/SouvikChoudhury360/CV.git/static/media/facebookLogo.8ddf76a1.png",
     "static/media/iitmLogo.png": "/SouvikChoudhury360/CV.git/static/media/iitmLogo.2d5c62d0.png",
-    "static/media/juLogo.jpg": "/SouvikChoudhury360/CV.git/static/media/juLogo.28c326c9.jpg",
-    "static/media/kickstartLogo.jpg": "/SouvikChoudhury360/CV.git/static/media/kickstartLogo.a5d0c0b0.jpg",
+    "static/media/juLogo.jpg": "/SouvikChoudhury360/CV.git/static/media/juLogo.3445c79c.jpg",
+    "static/media/kickstartLogo.jpg": "/SouvikChoudhury360/CV.git/static/media/kickstartLogo.c15341f6.jpg",
     "static/media/manOnTable.svg": "/SouvikChoudhury360/CV.git/static/media/manOnTable.52be3144.svg",
     "static/media/quoraLogo.png": "/SouvikChoudhury360/CV.git/static/media/quoraLogo.4b2938b9.png",
-    "static/media/replyLogo.jpg": "/SouvikChoudhury360/CV.git/static/media/replyLogo.f4da5b54.jpg",
+    "static/media/replyLogo.jpg": "/SouvikChoudhury360/CV.git/static/media/replyLogo.8b107b63.jpg",
     "static/media/skill.svg": "/SouvikChoudhury360/CV.git/static/media/skill.34409398.svg",
     "static/media/TalkCard.scss": "/SouvikChoudhury360/CV.git/static/media/talksCardBack.13780cdd.svg"
   },
@@ -42,6 +42,6 @@
     "static/js/runtime-main.d5fa7641.js",
     "static/js/2.1fb5a9dc.chunk.js",
     "static/css/main.8e90f156.chunk.css",
-    "static/js/main.e0ba1ba8.chunk.js"
+    "static/js/main.81410aac.chunk.js"
   ]
 }
