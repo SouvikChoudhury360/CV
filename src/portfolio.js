@@ -40,8 +40,7 @@ const socialMediaLinks = {
 const skillsSection = {
   title: "What I do",
   subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
-  skills: [
-  ],
+  skills: [],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
 https://fontawesome.com/icons?d=gallery */
@@ -82,7 +81,7 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "Ethereum",
       fontAwesomeClassname: "fab fa-ethereum"
-    },
+    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -96,7 +95,7 @@ const educationInfo = {
       schoolName: "IIT MADRAS",
       logo: require("./assets/images/iitmLogo.png"),
       subHeader: "Bachelor of Science in Data Science",
-      duration: "2021 - 2024(Expected)",
+      duration: "2021 - 2024(Expected)"
       //desc: "Participated in the research of XXX and published 3 papers.",
       //descBullets: [
       //  "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
@@ -108,7 +107,7 @@ const educationInfo = {
       logo: require("./assets/images/juLogo.jpg"),
       subHeader: "Bachelor of Engineering in Mechanical Engineering",
       duration: "2020 - 2024(Expected)",
-      desc: "Current GPA: 9.43",
+      desc: "Current GPA: 9.43"
       //descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
     }
   ]
@@ -185,7 +184,8 @@ const bigProjects = {
     {
       image: require("./assets/images/evoter.png"),
       projectName: "E-VOTER",
-      projectDesc: "A Blockchain based online voting app. Built using React for Front-End, Solidity for writing Smart Contracts & Truffle framework for testing and deploying to Blockchain network.",
+      projectDesc:
+        "A Blockchain based online voting app. Built using React for Front-End, Solidity for writing Smart Contracts & Truffle framework for testing and deploying to Blockchain network.",
       footerLink: [
         {
           name: "Source Code",
@@ -197,7 +197,8 @@ const bigProjects = {
     {
       image: require("./assets/images/pvhub.png"),
       projectName: "PV-HUB",
-      projectDesc: "A simple media sharing app powered by Ethereum Blockchain. Built using React for Front-End, Solidity for Smart-Contracts, IPFS for storing media on Blockchain, Truffle for testing and deploying to Blockchain.",
+      projectDesc:
+        "A simple media sharing app powered by Ethereum Blockchain. Built using React for Front-End, Solidity for Smart-Contracts, IPFS for storing media on Blockchain, Truffle for testing and deploying to Blockchain.",
       footerLink: [
         {
           name: "Source Code",
@@ -208,7 +209,8 @@ const bigProjects = {
     {
       image: require("./assets/images/chaterr.png"),
       projectName: "CHATERR",
-      projectDesc: "An chatting application built with Flutter and backend powered by Firebase.",
+      projectDesc:
+        "An chatting application built with Flutter and backend powered by Firebase.",
       footerLink: [
         {
           name: "Source Code",
@@ -216,7 +218,7 @@ const bigProjects = {
         }
         //  you can add extra buttons here.
       ]
-    },
+    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -232,8 +234,7 @@ const achievementSection = {
   achievementsCards: [
     {
       title: "Google Kickstart",
-      subtitle:
-        "Google Kickstart 2021 Round C World Rank: 2936.",
+      subtitle: "Google Kickstart 2021 Round C World Rank: 2936.",
       image: require("./assets/images/kickstartLogo.jpg"),
       footerLink: [
         {
@@ -244,8 +245,7 @@ const achievementSection = {
     },
     {
       title: "Codechef",
-      subtitle:
-        "Max Rating: 1749 (3-Star).",
+      subtitle: "Max Rating: 1749 (3-Star).",
       image: require("./assets/images/codechefLogo.png"),
       footerLink: [
         {
@@ -256,8 +256,7 @@ const achievementSection = {
     },
     {
       title: "Codeforces",
-      subtitle:
-        "Max Rating: 1374 (Pupil).",
+      subtitle: "Max Rating: 1374 (Pupil).",
       image: require("./assets/images/codeforcesLogo.jpg"),
       footerLink: [
         {
@@ -268,8 +267,7 @@ const achievementSection = {
     },
     {
       title: "Reply Challenge (Standard Edition)",
-      subtitle:
-        "Reply Challenge (Standard Edition) World Rank: 412.",
+      subtitle: "Reply Challenge (Standard Edition) World Rank: 412.",
       image: require("./assets/images/replyLogo.jpg"),
       footerLink: [
         {
@@ -292,8 +290,7 @@ const achievementSection = {
     },
     {
       title: "IEMHACKATHON 1.0",
-      subtitle:
-        "Selected in top 9 teams in IEMHACKATHON 1.0 (Devfolio).",
+      subtitle: "Selected in top 9 teams in IEMHACKATHON 1.0 (Devfolio).",
       image: require("./assets/images/iemLogo.png"),
       footerLink: [
         {
@@ -301,7 +298,7 @@ const achievementSection = {
           url: "https://devfolio.co/submissions/blockchain-based-voting-evoter-a587"
         }
       ]
-    },
+    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
