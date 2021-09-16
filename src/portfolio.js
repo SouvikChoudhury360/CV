@@ -104,7 +104,7 @@ const educationInfo = {
     },
     {
       schoolName: "Jadavpur University",
-      logo: require("./assets/images/juLogo.jpg"),
+      logo: require("./assets/images/juLogo.png"),
       subHeader: "Bachelor of Engineering in Mechanical Engineering",
       duration: "2020 - 2024(Expected)",
       desc: "Current GPA: 9.43"
@@ -214,7 +214,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Source Code",
-          url: "https://github.com/rollexxx23/e-Voting"
+          url: "https://github.com/SouvikChoudhury360/Chaterr"
         }
         //  you can add extra buttons here.
       ]
@@ -235,7 +235,7 @@ const achievementSection = {
     {
       title: "Google Kickstart",
       subtitle: "Google Kickstart 2021 Round C World Rank: 2936.",
-      image: require("./assets/images/kickstartLogo.jpg"),
+      image: require("./assets/images/kickstartLogo.png"),
       footerLink: [
         {
           name: "View Certificate",
@@ -257,7 +257,7 @@ const achievementSection = {
     {
       title: "Codeforces",
       subtitle: "Max Rating: 1374 (Pupil).",
-      image: require("./assets/images/codeforcesLogo.jpg"),
+      image: require("./assets/images/codeforcesLogo.png"),
       footerLink: [
         {
           name: "View Profile",
@@ -268,7 +268,7 @@ const achievementSection = {
     {
       title: "Reply Challenge (Standard Edition)",
       subtitle: "Reply Challenge (Standard Edition) World Rank: 412.",
-      image: require("./assets/images/replyLogo.jpg"),
+      image: require("./assets/images/replyLogo.png"),
       footerLink: [
         {
           name: "View Certificate",
