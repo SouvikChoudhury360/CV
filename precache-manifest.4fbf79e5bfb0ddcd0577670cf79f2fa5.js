@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "558acf475fe6460b956fa8c1ab93965d",
+    "revision": "f6de1858e6b633ce5b8fa74a351c6e6a",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.a8329f31.chunk.css"
   },
   {
-    "revision": "1a537a63dda910253de1",
+    "revision": "f3d4033873959de8afa9",
     "url": "/static/css/main.509cd038.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.6b82b7a6.chunk.js"
   },
   {
-    "revision": "1a537a63dda910253de1",
-    "url": "/static/js/main.f432e85b.chunk.js"
+    "revision": "f3d4033873959de8afa9",
+    "url": "/static/js/main.326622c4.chunk.js"
   },
   {
     "revision": "1e1256806144293b4302",
@@ -52,12 +52,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/airbnbLogo.c59720d6.png"
   },
   {
-    "revision": "3a2ef7887974a2d727528ef9a88e4a85",
-    "url": "/static/media/chaterr.3a2ef788.png"
+    "revision": "3b0e789b5fbb189c00185879fa1e6650",
+    "url": "/static/media/chaterr.3b0e789b.png"
   },
   {
-    "revision": "03bf9f01f443578a082e38650a92da2f",
-    "url": "/static/media/codeforcesLogo.03bf9f01.jpg"
+    "revision": "e287ec314f221778db3f8a5802ec5bea",
+    "url": "/static/media/codeforcesLogo.e287ec31.png"
   },
   {
     "revision": "51cf7192327488da3d2a171280680c16",
@@ -84,12 +84,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/iitmLogo.2d5c62d0.png"
   },
   {
-    "revision": "3445c79cc704e80d7e498541c599f2f2",
-    "url": "/static/media/juLogo.3445c79c.jpg"
+    "revision": "fd7790e62147a9a0d355f17058c0f545",
+    "url": "/static/media/juLogo.fd7790e6.png"
   },
   {
-    "revision": "c15341f685876d99a19ef6d2686658ec",
-    "url": "/static/media/kickstartLogo.c15341f6.jpg"
+    "revision": "3c96dd5bfe23e7b1b89e7d0863828a27",
+    "url": "/static/media/kickstartLogo.3c96dd5b.png"
   },
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
@@ -100,8 +100,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/quoraLogo.4b2938b9.png"
   },
   {
-    "revision": "8b107b63c0e0e7cc361294093f33dcc4",
-    "url": "/static/media/replyLogo.8b107b63.jpg"
+    "revision": "b8eda8e1b016a42d11c434ce3949db92",
+    "url": "/static/media/replyLogo.b8eda8e1.png"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",

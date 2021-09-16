@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.509cd038.chunk.css",
-    "main.js": "/static/js/main.f432e85b.chunk.js",
-    "main.js.map": "/static/js/main.f432e85b.chunk.js.map",
+    "main.js": "/static/js/main.326622c4.chunk.js",
+    "main.js.map": "/static/js/main.326622c4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e8a08d70.js",
     "runtime-main.js.map": "/static/js/runtime-main.e8a08d70.js.map",
     "static/js/2.1fb5a9dc.chunk.js": "/static/js/2.1fb5a9dc.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.6b82b7a6.chunk.js": "/static/js/4.6b82b7a6.chunk.js",
     "static/js/4.6b82b7a6.chunk.js.map": "/static/js/4.6b82b7a6.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f2b3a82c0039cfb203e054c25a021e36.js": "/precache-manifest.f2b3a82c0039cfb203e054c25a021e36.js",
+    "precache-manifest.4fbf79e5bfb0ddcd0577670cf79f2fa5.js": "/precache-manifest.4fbf79e5bfb0ddcd0577670cf79f2fa5.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.25727338.chunk.css.map": "/static/css/3.25727338.chunk.css.map",
     "static/css/4.a8329f31.chunk.css.map": "/static/css/4.a8329f31.chunk.css.map",
@@ -22,19 +22,19 @@
     "static/js/2.1fb5a9dc.chunk.js.LICENSE.txt": "/static/js/2.1fb5a9dc.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/airbnbLogo.png": "/static/media/airbnbLogo.c59720d6.png",
-    "static/media/chaterr.png": "/static/media/chaterr.3a2ef788.png",
-    "static/media/codeforcesLogo.jpg": "/static/media/codeforcesLogo.03bf9f01.jpg",
+    "static/media/chaterr.png": "/static/media/chaterr.3b0e789b.png",
+    "static/media/codeforcesLogo.png": "/static/media/codeforcesLogo.e287ec31.png",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
     "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
     "static/media/doubleslashLogo.png": "/static/media/doubleslashLogo.7329fce1.png",
     "static/media/evoter.png": "/static/media/evoter.0c88bd66.png",
     "static/media/facebookLogo.png": "/static/media/facebookLogo.8ddf76a1.png",
     "static/media/iitmLogo.png": "/static/media/iitmLogo.2d5c62d0.png",
-    "static/media/juLogo.jpg": "/static/media/juLogo.3445c79c.jpg",
-    "static/media/kickstartLogo.jpg": "/static/media/kickstartLogo.c15341f6.jpg",
+    "static/media/juLogo.png": "/static/media/juLogo.fd7790e6.png",
+    "static/media/kickstartLogo.png": "/static/media/kickstartLogo.3c96dd5b.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
     "static/media/quoraLogo.png": "/static/media/quoraLogo.4b2938b9.png",
-    "static/media/replyLogo.jpg": "/static/media/replyLogo.8b107b63.jpg",
+    "static/media/replyLogo.png": "/static/media/replyLogo.b8eda8e1.png",
     "static/media/skill.svg": "/static/media/skill.34409398.svg",
     "static/media/TalkCard.scss": "/static/media/talksCardBack.13780cdd.svg"
   },
@@ -42,6 +42,6 @@
     "static/js/runtime-main.e8a08d70.js",
     "static/js/2.1fb5a9dc.chunk.js",
     "static/css/main.509cd038.chunk.css",
-    "static/js/main.f432e85b.chunk.js"
+    "static/js/main.326622c4.chunk.js"
   ]
 }
