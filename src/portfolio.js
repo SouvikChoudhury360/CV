@@ -17,7 +17,7 @@ const greeting = {
     "A passionate Software Developer 🚀 having experience in full stack development with React, Node. Also a blockchain enthusiast."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1LjpKRUS1fwMSR7yTilWjervLWw5qz8BH/view?usp=sharing",
+    "https://drive.google.com/file/d/1huwvVw_UwQQsC_62QZfju_Zucu_A2yKF/view?usp=sharing",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
